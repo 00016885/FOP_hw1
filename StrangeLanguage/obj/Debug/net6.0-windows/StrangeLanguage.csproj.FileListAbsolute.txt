@@ -1,0 +1,16 @@
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\bin\Debug\net6.0-windows\StrangeLanguage.exe
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\bin\Debug\net6.0-windows\StrangeLanguage.deps.json
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\bin\Debug\net6.0-windows\StrangeLanguage.runtimeconfig.json
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\bin\Debug\net6.0-windows\StrangeLanguage.dll
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\bin\Debug\net6.0-windows\StrangeLanguage.pdb
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.Form1.resources
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.csproj.GenerateResource.cache
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.GeneratedMSBuildEditorConfig.editorconfig
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.AssemblyInfoInputs.cache
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.AssemblyInfo.cs
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.csproj.CoreCompileInputs.cache
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.dll
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\refint\StrangeLanguage.dll
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.pdb
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\StrangeLanguage.genruntimeconfig.cache
+D:\mySpace\fop\StrangeLanguage\StrangeLanguage\obj\Debug\net6.0-windows\ref\StrangeLanguage.dll
